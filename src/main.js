@@ -23,6 +23,3 @@ Open My Gift 🎁
 document.getElementById("startBtn").addEventListener("click", () => {
     alert("❤️ Welcome to our story...");
 });
-document.getElementById("startBtn").addEventListener("click", () => {
-    alert("❤️ Welcome to our story...");
-});
